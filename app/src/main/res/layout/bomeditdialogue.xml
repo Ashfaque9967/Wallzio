@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginStart="20dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            >
+            <ImageView
+                android:id="@+id/logoBack"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/splashlogoback" />
+
+            <ImageView
+                android:id="@+id/logoLetter"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/splashlogoletter" />
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/headname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="allzio"
+            android:fontFamily="@font/nunitoregular"
+            android:textSize="38dp"
+            android:textColor="#2D3E50"
+            android:layout_marginBottom="5dp"
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/contenttext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:padding="10dp"
+        android:textColor="#2D3E50"
+        android:fontFamily="@font/nunitosemibold"
+        android:text="Enter the URL of your wallpaper to add."
+        android:textSize="25dp"/>
+
+
+    <EditText
+        android:id="@+id/ETinput"
+        android:layout_below="@id/contenttext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Paste Your Link Here"
+        android:background="@drawable/editshape"
+        android:padding="15dp" />
+
+    <RelativeLayout
+        android:layout_below="@id/ETinput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancelbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="50dp"
+            android:text="Cancel"
+            />
+        <Button
+            android:id="@+id/addbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="50dp"
+            android:text="Add"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

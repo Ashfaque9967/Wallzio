@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694716544816",
+    "project_id": "wallzio-a6215",
+    "storage_bucket": "wallzio-a6215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694716544816:android:1ffddfa508408567e07af5",
+        "android_client_info": {
+          "package_name": "com.example.wallzio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694716544816-etaf0sr95fv9u1ot70dba68aodls7j63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoswX3VxQaYzmUlhgY7otmIpjclde8sak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694716544816-etaf0sr95fv9u1ot70dba68aodls7j63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

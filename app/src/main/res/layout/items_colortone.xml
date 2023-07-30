@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/itemCard"
+        android:layout_width="66dp"
+        android:layout_height="50dp"
+        android:background="@color/black"
+        android:gravity="end"
+        >
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_marginBottom="1dp"
+            android:textSize="5dp"
+            android:text="BLACK"
+            android:fontFamily="@font/nunitosemibold"
+            android:textColor="@color/white"
+            android:layout_gravity="end|bottom" />
+
+    </LinearLayout>
+
+</LinearLayout>
