@@ -27,11 +27,11 @@ Discovering the beauty of Wallzio is as easy as 1-2-3:
 
 ## Contributing
 
-Wallzio thrives on the magic of community contributions. Join us in creating a captivating experience for users worldwide. If you wish to contribute, please read our [contribution guidelines](CONTRIBUTING.md) and become a part of the enchantment.
+Wallzio thrives on the magic of community contributions. Join us in creating a captivating experience for users worldwide. 
 
 ## License
 
-Wallzio is released under the [MIT License](LICENSE), granting you the freedom to make it even more magical and share it with the world.
+Wallzio is released under the [MIT License](https://opensource.org/licenses/MIT), granting you the freedom to make it even more magical and share it with the world.
 
 ## Contact
 
