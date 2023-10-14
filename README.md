@@ -1,6 +1,15 @@
+<img src="https://github.com/Ashfaque9967/Calc/assets/110349538/eb554876-9e7e-470e-b66c-c0cb15071fa3" width="100" />
+
 # Wallzio - Unleash Your Wallpaper Wonderland
 
-<img src="https://github.com/Ashfaque9967/Calc/assets/110349538/eb554876-9e7e-470e-b66c-c0cb15071fa3" width="100" />
+<div align="left">
+    <img src="https://github.com/Ashfaque9967/Wallzio/assets/110349538/e48ac1d4-6ea9-49bb-b9dd-e0839d21b25e" width="160" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Ashfaque9967/Wallzio/assets/110349538/d6ce469d-c84b-449f-a314-3b84b6f2fb16" width="160" />&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/Ashfaque9967/Wallzio/assets/110349538/aeadfe09-949a-4228-bfc7-545de05ad578" width="160" />
+</div>
+
+
+
 
 ## Description
 Welcome to Wallzio, your gateway to an enchanting wallpaper wonderland. Experience the joy of creating your personal gallery and transforming your device's screen into a mesmerizing canvas of art and colors. Wallzio brings you a plethora of stunning color palettes across various categories, providing endless inspiration for your wallpaper collection.
